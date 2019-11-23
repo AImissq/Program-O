@@ -146,7 +146,7 @@ endClr;
 </div>
 <?php echo $debug_div ?>
 <div id="shameless_plug">
-    To get your very own chatbot, visit <a href="http://www.program-o.com">program-o.com</a>!
+    To get your very own chatbot, visit <a href="https://github.com/Aimissq/Program-O">program-o</a>!
 </div>
 </body>
 </html>
