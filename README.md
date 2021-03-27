@@ -74,6 +74,8 @@ the admin credentials you provided during the install process. Then select "Uplo
 from the navigation link on the left and upload your AIML files. Then sit back and enjoy your
 new bot!
 
+AIML Files available here -- https://github.com/AImissq/HLPC-aiml-1.0-set  --and here-- https://github.com/AImissq/PGO_AIML
+
 ## Program O has a WordPress Plugin!
 
 If you have a WordPress driven website, and wish to incorporate your Program O chatbot into your
